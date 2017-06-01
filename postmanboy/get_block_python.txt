@@ -1,0 +1,4 @@
+﻿python postboy.py -u 01720000000005 -p -t "coap://10.202.40.47:5683/v1/device/file/DLC-k4eap740b43n?fileType=OTA&deviceUuid=00ef0000000a0a&token=w0jF6THN" -r /newfirmware
+
+
+C:\Users\zhangguohua02>python C:\Users\zhangguohua02\Desktop\postboy.py -u 01720000000005 -p -t "coap://10.202.40.47:5683/v1/device/file/DLC-k4eap740b43n?fileType=OTA&deviceUuid=00ef0000000a0a&token=w0jF6THN" -r /newfirmware
